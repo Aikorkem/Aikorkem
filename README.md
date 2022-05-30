@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aikorkem
 - 👀 I’m interested in webtoons
-- 🌱 I’m currently learning analytics
-- 💞️ I’m looking to collaborate on interesting ptojects
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me nohow
 
 <!---
