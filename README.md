@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Aikorkem
-- 👀 I’m interested in webtoons
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me nohow
+- 👋 Hi, I’m Aikorkem
+- 👀 I’m BPM developer right now
+- 🌱 I’m currently working through Web Development Bootcamp
+- 💞️ I'm looking to collaborate on interesting projects
 
 <!---
 Aikorkem/Aikorkem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
