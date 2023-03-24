@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aikorkem
-- 🌱 I have completed Web Development Bootcamp
-- ✨ I am currently working through Front End Development Course
+- ✨ I am a web developer
 - 💞️ I'm looking forward to collaborate on interesting projects
 
 <!---
